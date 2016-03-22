@@ -1,0 +1,11 @@
+* Swap 
+
+Todo:
+* Fix diode directions
+* Check TDCT/RDCT connections.
+
+
+http://www.digikey.com/product-search/en?FV=fff40002%2Cfff80009%2C3400ba%2Cfc0091%2Cfc016f%2Cfc01af%2Cfc01ea&mnonly=0&newproducts=0&ColumnSort=0&page=2&stock=1&pbfree=0&rohs=0&quantity=&ptm=0&fid=0&pageSize=25
+http://www.digikey.com/product-detail/en/AL12A08N0GTR/478-7174-1-ND/3524502
+http://www.digikey.com/product-detail/en/744911088/732-6190-1-ND/5050841
+http://www.digikey.com/product-search/en?pv16=8741&pv16=10180&pv16=8878&FV=fff40015%2Cfff8030a%2Ce6001f5&mnonly=0&newproducts=0&ColumnSort=0&page=1&stock=1&quantity=0&ptm=0&fid=0&pageSize=25
